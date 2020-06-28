@@ -1,0 +1,28 @@
+                              
+                                                  
+                                                  Dica:
+
+                                                  Marcela ganhou um prêmio e antonio a parabenizou.
+                                                   
+                                                  Marcela = M
+
+                                                  Antonio = A
+
+                                                  e = ^
+                                           
+                                                  M ^ A
+ 
+                                                  2 - Qual a representação correta da seguinte sentença em expressão lógica:
+
+                                                        João comprou um carro e Maria uma moto.
+
+
+                                                   _____ __________          _____ __________
+                                                  |     |          |        |     |          |
+                                                  |  1  |  J' v M  |        |  2  |  M' v J  |
+                                                  |_____|__________|        |_____|__________|
+
+                                                   _____ _________           _____ _________
+                                                  |     |         |         |     |         |
+                                                  |  3  |  J ^ M  |         |  4  |  J v M  |
+                                                  |_____|_________|         |_____|_________|                        

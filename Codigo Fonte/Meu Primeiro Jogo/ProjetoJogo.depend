@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1589749478 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<iostream>
+	<conio.h>
+	"RotaQuiz.h"
+	"rotasPuzzle.h"
+
+1587770610 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\funcoes.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"funcoes.h"
+
+1588282125 c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\funcoes.h
+
+1589748819 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\historia.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+	"rotasPuzzle.h"
+
+1587686659 c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\faseslig.h
+
+1589064425 c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\rotaquiz.h
+
+1589067600 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\funcaoquiz.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+
+1588282125 c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\rotasgerais.h
+
+1589748610 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\funcoesfase.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<iostream>
+	"rotasPuzzle.h"
+
+1589742729 c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\rotaspuzzle.h
+
+1589063709 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\textoquizz.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+	"RotaQuiz.h"
+
+1588984938 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\areateste.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"RotaQuiz.h"
+	"rotasPuzzle.h"
+

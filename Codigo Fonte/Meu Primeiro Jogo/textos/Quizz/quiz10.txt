@@ -1,0 +1,17 @@
+                                    
+
+
+                                              10 - Olá! Eu sei que não sabe quem sou, mas nós somos da mesma família: 
+                                              o meu pai é irmão da sua irmã. Consegue adivinhar que parente sou eu: 
+                                              primo, sobrinho, filho, tio ou genro?
+
+                                                   _____ ____________      _____ ____________
+                                                  |     |            |    |     |            |
+                                                  |  1  |  Filho     |    |  2  |  Sobrinho  |
+                                                  |_____|____________|    |_____|____________|
+
+                                                   _____ ____________      _____ ____________
+                                                  |     |            |    |     |            |
+                                                  |  3  |  Tio       |    |  4  |  Genro     |
+                                                  |_____|____________|    |_____|____________|
+

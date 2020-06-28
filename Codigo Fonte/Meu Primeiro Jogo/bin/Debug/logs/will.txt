@@ -1,0 +1,5 @@
+Nome:will
+Senha:123
+Fase:1
+NewPers:2
+Quiz:1

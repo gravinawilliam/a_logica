@@ -1,0 +1,3 @@
+Acertos:0
+Erros:0
+Pontos:0

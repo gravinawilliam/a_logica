@@ -1,0 +1,28 @@
+
+
+                                                  
+                                                  Dica:
+
+                                                  Joana vai comprar um hamburguer ou um cachorro quente
+                                 
+                                                  hamburguer = H
+
+                                                  cachorro quente = C
+
+                                                  ou = v
+
+                                                  H v C
+
+                                                  3 - Qual a representação correta da seguinte sentença em expressão lógica:
+ 
+                                                  Guilherme viajou ou foi andar de bicicleta.
+
+                                                     _____ _________       _____ _________
+                                                    |     |         |     |     |         |
+                                                    |  1  |  V v B' |     |  2  |  V v B  |
+                                                    |_____|_________|     |_____|_________|
+
+                                                     _____ _________       _____ _________
+                                                    |     |         |     |     |         |
+                                                    |  3  |  B ^ V' |     |  4  |  B v V  |
+                                                    |_____|_________|     |_____|_________|

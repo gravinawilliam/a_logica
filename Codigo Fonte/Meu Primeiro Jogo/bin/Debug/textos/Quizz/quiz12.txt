@@ -1,0 +1,17 @@
+   
+
+                                                12 - Oito amigos se encontram e cada um cumprimenta o outro com 
+                                                um aperto de mão. Quantos apertos de mão se trocaram?
+
+                                                     _____ ______      _____ ______
+                                                    |     |      |    |     |      |
+                                                    |  1  |  23  |    |  2  |  26  |
+                                                    |_____|______|    |_____|______|
+
+                                                     _____ ______      _____ ______
+                                                    |     |      |    |     |      |
+                                                    |  3  |  28  |    |  4  |  24  |
+                                                    |_____|______|    |_____|______|
+                                                   
+
+                                                    

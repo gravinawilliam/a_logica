@@ -1,0 +1,17 @@
+
+                                                  
+                                                7 - Descubra a logica:
+
+                                                Uma vela pode ficar acesa durante duas horas. Por quantas horas ficariam 
+                                                acesas duas velas do mesmo tamanho e acesas ao mesmo tempo?
+
+                                                       _____ ___________         _____ ____________
+                                                      |     |           |       |     |            |
+                                                      |  1  |  5 horas  |       |  2  |  3 horas   |
+                                                      |_____|___________|       |_____|____________|
+
+                                                       _____ ___________         _____ _____________
+                                                      |     |           |       |     |             |
+                                                      |  3  |  2 horas  |       |  4  |  2 h e meia |
+                                                      |_____|___________|       |_____|_____________|
+    

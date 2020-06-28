@@ -1,0 +1,1110 @@
+# depslib dependency file v1.0
+1587434386 source:c:\.matheus\projeto jogo teste\.test\meu primeiro jogo\main.cpp
+	<exception>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1587437216 source:c:\.matheus\projeto jogo teste\.test\meu primeiro jogo\mainj.cpp
+	<SDL2/SDL.h>
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_opengl.h
+	"SDL_config.h"
+	"gl_mangle.h"
+	<windows.h>
+	"SDL_opengl_glext.h"
+
+1583890769 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_opengl_glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1561870398 c:\.matheus\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1587477596 source:c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\meu primeiro jogo\mainj.cpp
+	<SDL2/SDL.h>
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_opengl.h
+	"SDL_config.h"
+	"gl_mangle.h"
+	<windows.h>
+	"SDL_opengl_glext.h"
+
+1583890769 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_opengl_glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1561870398 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1587477596 source:c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\meu primeiro jogo\maintestjp.cpp
+	<SDL2/SDL.h>
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+
+1587480635 source:c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\meu primeiro jogo\a.cpp
+	<stdio.h>
+	<SDL2/SDL.h>
+
+1587512871 source:c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\meu primeiro jogo\main.cpp
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_rect.h"
+
+1547322290 c:\users\mathe\google drive\햞ea de testes (at)\projeto sdl\projeto jogo teste\.test\sdl2-2.0.12\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1589849320 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogoteste\.test\meu primeiro jogo\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<iostream>
+	<conio.h>
+	"RotaQuiz.h"
+	"rotasPuzzle.h"
+
+1589064425 c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogoteste\.test\meu primeiro jogo\rotaquiz.h
+
+1589842810 c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogoteste\.test\meu primeiro jogo\rotaspuzzle.h
+
+1588984938 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogoteste\.test\meu primeiro jogo\areateste.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"RotaQuiz.h"
+	"rotasPuzzle.h"
+
+1589067600 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogoteste\.test\meu primeiro jogo\funcaoquiz.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+
+1588281894 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogoteste\.test\meu primeiro jogo\funcoes.cpp
+
+1589848282 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogoteste\.test\meu primeiro jogo\funcoesfase.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<iostream>
+	"rotasPuzzle.h"
+
+1589748819 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogoteste\.test\meu primeiro jogo\historia.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+	"rotasPuzzle.h"
+
+1589063709 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogoteste\.test\meu primeiro jogo\textoquizz.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+	"RotaQuiz.h"
+
+1589850177 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogoteste\.test\meu primeiro jogo\sdl2arquivos.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_rect.h"
+	"rotasPuzzle.h"
+
+1591568119 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\areateste.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"RotaQuiz.h"
+	"rotasPuzzle.h"
+
+1593216909 c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\rotaquiz.h
+
+1592957662 c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\rotaspuzzle.h
+
+1591845009 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\funcaoquiz.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+
+1588281894 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\funcoes.cpp
+
+1591844559 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\funcoesfase.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<iostream>
+	"rotasPuzzle.h"
+
+1591834470 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\historia.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+	"rotasPuzzle.h"
+
+1593217321 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<iostream>
+	<conio.h>
+	"RotaQuiz.h"
+	"rotasPuzzle.h"
+	<sys/stat.h>
+
+1591845009 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\textoquizz.cpp
+
+1590883774 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\sdl2arquivos.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_rect.h"
+	"rotasPuzzle.h"
+
+1591140247 source:c:\users\vmode\onedrive\햞ea de trabalho\trabalhos\meu primeiro jogo\areateste.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"RotaQuiz.h"
+	"rotasPuzzle.h"
+
+1590885491 c:\users\vmode\onedrive\햞ea de trabalho\trabalhos\meu primeiro jogo\rotaquiz.h
+
+1591142239 c:\users\vmode\onedrive\햞ea de trabalho\trabalhos\meu primeiro jogo\rotaspuzzle.h
+
+1590885487 source:c:\users\vmode\onedrive\햞ea de trabalho\trabalhos\meu primeiro jogo\funcaoquiz.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+
+1588281894 source:c:\users\vmode\onedrive\햞ea de trabalho\trabalhos\meu primeiro jogo\funcoes.cpp
+
+1591487209 source:c:\users\vmode\onedrive\햞ea de trabalho\trabalhos\meu primeiro jogo\funcoesfase.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<iostream>
+	"rotasPuzzle.h"
+
+1591484743 source:c:\users\vmode\onedrive\햞ea de trabalho\trabalhos\meu primeiro jogo\historia.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+	"rotasPuzzle.h"
+
+1591478378 source:c:\users\vmode\onedrive\햞ea de trabalho\trabalhos\meu primeiro jogo\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<iostream>
+	<conio.h>
+	"RotaQuiz.h"
+	"rotasPuzzle.h"
+
+1590883774 source:c:\users\vmode\onedrive\햞ea de trabalho\trabalhos\meu primeiro jogo\sdl2arquivos.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_rect.h"
+	"rotasPuzzle.h"
+
+1590885495 source:c:\users\vmode\onedrive\햞ea de trabalho\trabalhos\meu primeiro jogo\textoquizz.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+	"RotaQuiz.h"
+
+1591140247 source:c:\users\mathe\desktop\jogo06_06_20rar\meu primeiro jogo\areateste.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"RotaQuiz.h"
+	"rotasPuzzle.h"
+
+1591487802 c:\users\mathe\desktop\jogo06_06_20rar\meu primeiro jogo\rotaquiz.h
+
+1591142239 c:\users\mathe\desktop\jogo06_06_20rar\meu primeiro jogo\rotaspuzzle.h
+
+1588281894 source:c:\users\mathe\desktop\jogo06_06_20rar\meu primeiro jogo\funcoes.cpp
+
+1591487209 source:c:\users\mathe\desktop\jogo06_06_20rar\meu primeiro jogo\funcoesfase.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<iostream>
+	"rotasPuzzle.h"
+
+1591484743 source:c:\users\mathe\desktop\jogo06_06_20rar\meu primeiro jogo\historia.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+	"rotasPuzzle.h"
+
+1591492029 source:c:\users\mathe\desktop\jogo06_06_20rar\meu primeiro jogo\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<iostream>
+	<conio.h>
+	"RotaQuiz.h"
+	"rotasPuzzle.h"
+
+1590883774 source:c:\users\mathe\desktop\jogo06_06_20rar\meu primeiro jogo\sdl2arquivos.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_rect.h"
+	"rotasPuzzle.h"
+
+1591493165 source:c:\users\mathe\desktop\jogo06_06_20rar\meu primeiro jogo\funcaoquiz.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+
+1591487731 source:c:\users\mathe\desktop\jogo06_06_20rar\meu primeiro jogo\textoquizz.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+	"RotaQuiz.h"
+
+1591671002 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\dados.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<iostream>
+	<conio.h>
+	"RotaQuiz.h"
+	"rotasPuzzle.h"
+	<sys/stat.h>
+
+1592252734 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\utilitarian\registros.cpp
+
+1593216641 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\arquivosquiz\textoquiz.cpp
+	"../RotaQuiz.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+
+1593217557 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\arquivosquiz\funcaoquiz.cpp
+	"../RotaQuiz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"locale.h"
+
+1592958036 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\arquivospuzzle\historia.cpp
+	"../rotasPuzzle.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"locale.h"
+
+1593215961 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\arquivospuzzle\funcoesfase.cpp
+	"../rotasPuzzle.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<iostream>
+
+1592161176 source:c:\users\mathe\google drive\햞ea de testes (at)\projetojogo\projetojogo\meu primeiro jogo\arquivospuzzle\sdl2arquivos.cpp
+	"../rotasPuzzle.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_rect.h"
+

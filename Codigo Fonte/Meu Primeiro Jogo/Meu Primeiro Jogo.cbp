@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Meu Primeiro Jogo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Utilitarian/" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Meu Primeiro Jogo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Meu Primeiro Jogo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Users/mathe/Google Drive/Área de Testes (AT)/Projeto SDL/Projeto Jogo Teste/.Test/SDL2-2.0.12/x86_64-w64-mingw32/include" />
+			<Add directory="C:/Users/mathe/Google Drive/Área de Testes (AT)/Projeto SDL/Projeto Jogo Teste/.Test/SDL_IMAGE/x86_64-w64-mingw32/include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDL2main" />
+			<Add library="SDL2.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add library="C:/Users/mathe/Google Drive/Área de Testes (AT)/Projeto SDL/Projeto Jogo Teste/.Test/SDL_IMAGE/x86_64-w64-mingw32/lib/libSDL2_image.a" />
+			<Add library="C:/Users/mathe/Google Drive/Área de Testes (AT)/Projeto SDL/Projeto Jogo Teste/.Test/SDL2-2.0.12/x86_64-w64-mingw32/lib/libSDL2_ttf.a" />
+			<Add library="C:/Users/mathe/Google Drive/Área de Testes (AT)/Projeto SDL/Projeto Jogo Teste/.Test/SDL_TTF/lib/libSDL2_ttf.a" />
+			<Add directory="C:/Users/mathe/Google Drive/Área de Testes (AT)/Projeto SDL/Projeto Jogo Teste/.Test/SDL2-2.0.12/x86_64-w64-mingw32/lib" />
+			<Add directory="C:/Users/mathe/Google Drive/Área de Testes (AT)/Projeto SDL/Projeto Jogo Teste/.Test/SDL_IMAGE/x86_64-w64-mingw32/lib" />
+		</Linker>
+		<ExtraCommands>
+			<Add after="XCOPY $(#sdl2)\bin\*.dll $(TARGET_OUTPUT_DIR) /D /Y" />
+		</ExtraCommands>
+		<Unit filename="ArquivosPuzzle/Historia.cpp" />
+		<Unit filename="ArquivosPuzzle/SDL2arquivos.cpp" />
+		<Unit filename="ArquivosPuzzle/funcoesFase.cpp" />
+		<Unit filename="ArquivosQuiz/FuncaoQuiz.cpp" />
+		<Unit filename="ArquivosQuiz/TextoQuiz.cpp" />
+		<Unit filename="RotaQuiz.h" />
+		<Unit filename="Utilitarian/Registros.cpp">
+			<Option virtualFolder="Utilitarian/" />
+		</Unit>
+		<Unit filename="main.cpp">
+			<Option virtualFolder="Utilitarian/" />
+		</Unit>
+		<Unit filename="rotasPuzzle.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

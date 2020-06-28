@@ -1,0 +1,12 @@
+                                        A ^ B # C ^ D = V
+                                                                    A = F |A = V   
+                                                                    B = V |B = V
+                                                                    C = V |C = F
+                                                                    D = F |D = V
+
+           Eu não entendo... Não espera! Parece uma lógica matemática, haa, tá faltando o conectivo...
+         Tenho que montar a operação e descobrir qual conectivo vai ser o certo... Droga! Mas tem tantos... 
+
+                                           (A ^ B) ? (C ^ D) = V
+
+

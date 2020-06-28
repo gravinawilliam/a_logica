@@ -1,0 +1,9 @@
+                                                                                                       Fase 1. 
+                               
+                                    (A ^ B) -> (C ^ D') = #
+                                                                    A = F |A = F   
+                                                                    B = V |B = F
+                                                                    C = V |C = V
+                                                                    D = F |D = V
+
+              Esse me lembra muito o anterior, só que está faltando o resultado...

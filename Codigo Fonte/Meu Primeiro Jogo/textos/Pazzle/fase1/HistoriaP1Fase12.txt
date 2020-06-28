@@ -1,0 +1,17 @@
+                                                                                                     Fase 1.
+                       - Hm... esse é o certo, pessoal esse é o conectivo. 
+                       - Poxa - Resmungou Charles - achei que isso era uma saída 
+                       - Pessoal isso aqui estava aqui antes? - perguntou Ana.
+                       Era uma fenda na parede, ainda não sei se já estava lá antes, ou se apareceu 
+                       depois que mexemos naquelas marcas. Olhamos bem de perto, conseguimos empurrar 
+                       e um novo desenho se apresentou a nós. 
+                       - São hieróglifos gente!!! – Disse Ana, assustada se afastou, ela parece cheia de 
+                        esperança, acredita que pode ser um tipo de desafio para sair desse lugar. 
+                       - Aqui Vicent, escrevi esse no papel, tente resolve-lo – Disse Charles.
+                                                         
+                                
+                                    (A ^ B) -> (C' ^ D') = #
+                                                                    A = F |A = V   
+                                                                    B = V |B = V
+                                                                    C = V |C = F
+                                                                    D = F |D = V
